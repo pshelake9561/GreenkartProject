@@ -1,0 +1,1 @@
+{"name": "test_e2e[data_list_item0]", "status": "passed", "parameters": [{"name": "data_list_item", "value": "{'search_text': 'ber', 'promo_code': 'rahulshettyacade'}"}], "start": 1754294110255, "stop": 1754294122645, "uuid": "26726873-14ea-4c21-a6db-e8781e463f6d", "testCaseId": "4b0f40a34cb138249d6cf0f80655d06d", "fullName": "test_e2e_greenkart#test_e2e"}
