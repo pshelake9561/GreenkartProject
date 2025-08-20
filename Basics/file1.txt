@@ -3,3 +3,12 @@
 - Hope you are enjoying this course.
 - This exercises are designed to soldify your learning.
 - happy learning! : The output should match the content of file1.txt.
+
+Alphabates
+- a
+- b
+- c
+- d
+- e
+- f
+- g
